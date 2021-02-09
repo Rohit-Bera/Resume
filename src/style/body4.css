@@ -1,0 +1,13 @@
+.container4{
+    display: flex;
+    justify-content: center;
+}
+.hobby{
+    text-align: left;
+    font-size: 1.5rem;
+    border: 2px solid gold;
+    padding: 0px 450px 0px 150px;
+    background-image: linear-gradient( 135deg, #FFF720 10%, #3CD500 100%);
+    margin-bottom: 20px;
+
+}
